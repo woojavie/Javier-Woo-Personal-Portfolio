@@ -73,13 +73,10 @@ export const Hero = () => {
                     {/* Headline */}
                     <div className="space-y-4">
                         <h1 className="text-5xl md:text-6xl lg:text-6xl font-bold leading-tight animate-fade-in animation-delay-100">
-                            Javier Woo <span className="text-primary glow-text">loves</span>
+                            Javier Woo
                             <br />
-                            Michelle Pham
+                            <span className="text-primary glow-text">Software Engineer & Builder</span>
                             <br />
-                            <span className="font-serif italic font-normal text-white">
-                                more.
-                            </span>
                         </h1>
                         <p className="text-lg text-muted-foreground max-w-lg animate-fade-in animation-delay-200">
                             Hi, I'm Javier Woo - a Kinesiology student turned Computer Science student interested in full-stack development and machine learning. I like moving quickly, figuring things out, and building alongside people who make the process fun.
