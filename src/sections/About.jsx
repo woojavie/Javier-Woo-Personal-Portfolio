@@ -44,7 +44,7 @@ export const About = () => {
 
                     <div className="space-y-4 text-muted-foreground animate-fade-in animation-delay-200">
                         <p>
-                        I started my academic journey in kinesiology, driven by a lifelong passion for sports and performance. Growing up, I played AAA hockey, which taught me discipline, resilience, and how to perform under pressure, skills that continue to shape how I approach challenges today. While studying kinesiology, I became increasingly interested in the systems and technology behind performance, which ultimately led me to explore computer science.
+                        I started my academic journey in Kinesiology, driven by a lifelong passion for sports and performance. Growing up, I played AAA hockey, which taught me discipline, resilience, and how to perform under pressure, skills that continue to shape how I approach challenges today. While studying Kinesiology, I became increasingly interested in the systems and technology behind performance, which ultimately led me to explore computer science.
                         </p>
                         <p>
                         That curiosity turned into a full transition when I entered UBC’s Bachelor of Computer Science second degree program. Since then, I’ve immersed myself in building projects, participating in hackathons, and developing a strong foundation in full-stack development and machine learning. I enjoy the process of taking ideas from concept to implementation and constantly pushing myself to learn new technologies.
